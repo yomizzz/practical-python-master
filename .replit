@@ -1,0 +1,2 @@
+language = "python3"
+run = "python prc-replit/main.py"
